@@ -1,6 +1,6 @@
 {
   "name": "shennong_footprints_china",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "react provate user",
   "main": "index.js",
   "scripts": {
@@ -11,6 +11,7 @@
     "provate",
     "user"
   ],
+  "registory": "https://github.com/vinvin1022/vinvin1022provate",
   "author": "vinvin1022",
   "license": "ISC",
   "dependencies": {
